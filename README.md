@@ -11,7 +11,7 @@
 
 ## 🚀 Как запустить
 
-Требуется Python с установленными библиотеками `numpy`, `matplotlib`, `statsmodels`.
+Требуется Python с установленными библиотеками `numpy`, `matplotlib`, `statsmodels`, `seaborn`.
 
 ```bash
 python task1.py
